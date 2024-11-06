@@ -18,7 +18,7 @@ This project demonstrates how to structure a simple React app using multiple com
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/my-favourite-food-treats.git
+   git clone https://github.com/jbolan12/React-Components
    cd my-favourite-food-treats
 
 
